@@ -52,3 +52,34 @@ Certainly/
 ├── .gitignore
 ├── README.md
 ```
+
+---
+
+## 🧪 Getting Started
+
+To run the project locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/zShankie/Certainly.git
+cd Certainly
+```
+
+### 2. Install client dependencies and start React app
+
+```bash
+cd client
+npm install
+npm start
+```
+
+### 3. Install server dependencies and start backend server
+
+```bash
+cd server
+npm install
+npm run dev
+```
+
+📝 Note: Make sure to create a .env file in the server/ directory based on the .env.example provided.
