@@ -83,3 +83,21 @@ npm run dev
 ```
 
 📝 Note: Make sure to create a .env file in the server/ directory based on the .env.example provided.
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/home.png)
+
+### Create Job Page
+
+![Create Job](./screenshots/create-post.png)
+
+### Job Post Form Filled
+
+![Filled Form](./screenshots/create-post-filled.png)
+
+### Job Listings Page
+
+![Find Jobs](./screenshots/find-jobs.png)
